@@ -1,0 +1,7 @@
+Does this email convey a sense of urgency?
+Is there a significant amount of flattery evident in the email?
+Is there a link in this email that appears to be suspicious?
+Does this email look like a marketing email?
+Does the email address the recipient by name and with suspiciously specific details?
+Are there threats of consequences if the recipient don't act immediately?
+Does the email ask the recipient to update an account information or sign a document through a link?

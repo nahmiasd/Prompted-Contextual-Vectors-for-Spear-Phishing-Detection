@@ -1,0 +1,10 @@
+The text enclosed within angle brackets serves as an evaluation of the quantity of a particular aspect within an email.
+Analyze this text and express its assessment as a probability (a python floating point number), describing the extent of the mentioned aspect in the email.
+Even if this text does not explicitly mention a probability, come up with this probability based on the text content.
+For example, given the text "There are indicators of a sense of urgency in this email" you can conclude that the text evaluates the quantity of a sense of urgency in an email.
+Since the text says that there are indicators of this aspects we can assign a high probability as the final answer (for example 0.6 or 0.7 or more).
+If the input text does not evaluates a quantity of an aspect within an email at all, your final answer should be "No probability".
+Think step by step and provide the final answer.
+{format}
+Begin!
+<{text}>

@@ -1,0 +1,35 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="15">
+            <item index="0" class="java.lang.String" itemvalue="fastapi" />
+            <item index="1" class="java.lang.String" itemvalue="neo4j" />
+            <item index="2" class="java.lang.String" itemvalue="uvicorn" />
+            <item index="3" class="java.lang.String" itemvalue="pandas" />
+            <item index="4" class="java.lang.String" itemvalue="openai" />
+            <item index="5" class="java.lang.String" itemvalue="streamlit" />
+            <item index="6" class="java.lang.String" itemvalue="cymple" />
+            <item index="7" class="java.lang.String" itemvalue="graphdatascience" />
+            <item index="8" class="java.lang.String" itemvalue="pyyaml" />
+            <item index="9" class="java.lang.String" itemvalue="selenium" />
+            <item index="10" class="java.lang.String" itemvalue="playwright" />
+            <item index="11" class="java.lang.String" itemvalue="duckduckgo_search" />
+            <item index="12" class="java.lang.String" itemvalue="webdriver-manager" />
+            <item index="13" class="java.lang.String" itemvalue="python-dotenv" />
+            <item index="14" class="java.lang.String" itemvalue="langchain" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N806" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
