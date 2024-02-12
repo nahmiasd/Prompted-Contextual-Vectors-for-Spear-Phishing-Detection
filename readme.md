@@ -7,6 +7,8 @@ This repo is the implementation of the paper titled 'Prompted Contextual Vectors
 4. The output will be saved in the 'output' folder. 
 It is recommended to run 'src/pipelines/verify_output_df_pipeline.py' on the generated 'results.pkl' file in order to impute invalid LLM output.
 
+Acknowledgement: This work was done in collaboration with Accenture Labs, Israel.
+
 ### Collaborators
 #### Accenture Cyber Research Lab
 Daniel Nahmias  
